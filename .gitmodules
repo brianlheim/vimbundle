@@ -1,0 +1,21 @@
+[submodule "vim-io"]
+	path = vim-io
+	url = https://github.com/andreimaxim/vim-io
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/ctrlp/ctrlp.vim
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
+[submodule "scvim"]
+	path = scvim
+	url = https://github.com/supercollider/scvim
+[submodule "tabular"]
+	path = tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "vim-cpp-enhanced-highlight"]
+	path = vim-cpp-enhanced-highlight
+	url = https://github.com/octol/vim-cpp-enhanced-highlight
