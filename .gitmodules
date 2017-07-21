@@ -22,3 +22,6 @@
 [submodule "vim-dispatch"]
 	path = vim-dispatch
 	url = git://github.com/tpope/vim-dispatch.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/vim-airline/vim-airline
