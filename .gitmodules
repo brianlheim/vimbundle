@@ -3,7 +3,7 @@
 	url = https://github.com/andreimaxim/vim-io
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
-	url = https://github.com/ctrlp/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
 [submodule "YouCompleteMe"]
 	path = YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
