@@ -22,3 +22,9 @@
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "vim-swift"]
+	path = vim-swift
+	url = https://github.com/bumaociyuan/vim-swift
+[submodule "python-mode"]
+	path = python-mode
+	url = https://github.com/python-mode/python-mode
