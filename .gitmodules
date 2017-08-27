@@ -28,3 +28,12 @@
 [submodule "python-mode"]
 	path = python-mode
 	url = https://github.com/python-mode/python-mode
+[submodule "schwifty-vim"]
+	path = schwifty-vim
+	url = https://github.com/brianlheim/schwifty-vim
+[submodule "vim-surround"]
+	path = vim-surround
+	url = ./vim-surround
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = ./vim-airline-themes
