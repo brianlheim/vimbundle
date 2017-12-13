@@ -40,3 +40,24 @@
 [submodule "vim-orgmode"]
 	path = vim-orgmode
 	url = https://github.com/jceb/vim-orgmode
+[submodule "vim-speeddating"]
+	path = vim-speeddating
+	url = https://github.com/tpope/vim-speeddating
+[submodule "utl.vim"]
+	path = utl.vim
+	url = https://github.com/vim-scripts/utl.vim
+[submodule "repeat.vim"]
+	path = repeat.vim
+	url = https://github.com/vim-scripts/repeat.vim
+[submodule "taglist.vim"]
+	path = taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim
+[submodule "NrrwRgn"]
+	path = NrrwRgn
+	url = https://github.com/chrisbra/NrrwRgn
+[submodule "calendar-vim"]
+	path = calendar-vim
+	url = https://github.com/mattn/calendar-vim
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/majutsushi/tagbar
