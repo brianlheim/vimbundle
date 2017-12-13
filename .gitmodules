@@ -37,3 +37,6 @@
 [submodule "vim-cmake-syntax"]
 	path = vim-cmake-syntax
 	url = git://github.com/pboettch/vim-cmake-syntax.git
+[submodule "vim-orgmode"]
+	path = vim-orgmode
+	url = https://github.com/jceb/vim-orgmode
