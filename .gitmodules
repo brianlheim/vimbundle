@@ -4,9 +4,6 @@
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim
-[submodule "YouCompleteMe"]
-	path = YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe
 [submodule "scvim"]
 	path = scvim
 	url = https://github.com/supercollider/scvim
@@ -37,3 +34,6 @@
 [submodule "vim-airline-themes"]
 	path = vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "vim-cmake-syntax"]
+	path = vim-cmake-syntax
+	url = git://github.com/pboettch/vim-cmake-syntax.git
