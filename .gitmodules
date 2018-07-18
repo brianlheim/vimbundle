@@ -13,9 +13,6 @@
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
-[submodule "vim-dispatch"]
-	path = vim-dispatch
-	url = git://github.com/tpope/vim-dispatch.git
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline
@@ -34,9 +31,6 @@
 [submodule "vim-airline-themes"]
 	path = vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
-[submodule "vim-cmake-syntax"]
-	path = vim-cmake-syntax
-	url = git://github.com/pboettch/vim-cmake-syntax.git
 [submodule "vim-orgmode"]
 	path = vim-orgmode
 	url = https://github.com/jceb/vim-orgmode
