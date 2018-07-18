@@ -58,3 +58,9 @@
 [submodule "vim-better-sml"]
 	path = vim-better-sml
 	url = https://github.com/jez/vim-better-sml
+[submodule "vim-cmake-syntax"]
+	path = vim-cmake-syntax
+	url = https://github.com/pboettch/vim-cmake-syntax
+[submodule "vim-dispatch"]
+	path = vim-dispatch
+	url = https://github.com/tpope/vim-dispatch
